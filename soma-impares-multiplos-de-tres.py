@@ -1,4 +1,4 @@
-print("Bem-vindo a contagem de  a 500.\n")
+print("Bem-vindo a contagem de 1 a 500.\n")
 soma = 0
 contador = 0
 for c in range (1, 501, 2):
