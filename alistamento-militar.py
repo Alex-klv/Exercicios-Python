@@ -15,7 +15,7 @@ if idade > 18:
     print("Seu alistamento foi em {}.".format(anoatras))
 elif idade < 18:
     futuro = 18 - idade
-    anofuturo = anoatual - futuro
+    anofuturo = anoatual + futuro
     print("Você nasceu em {} tem {} anos em {}.".format(nascimento, idade, anoatual))
     print("Você deverá se alistar daqui há {} anos.".format(futuro))
     print("Seu alistamento será em {}.".format(anofuturo))
